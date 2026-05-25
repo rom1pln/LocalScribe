@@ -1,0 +1,6 @@
+{
+    "model": "qwen2.5:1.5b",
+    "ollama_url": "http://localhost:11434",
+    "pause_seconds": 1.5,
+    "min_chars": 4
+}
